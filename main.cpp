@@ -7,6 +7,7 @@ char decipher(char, int); //the method that will decrypt the message
 
 int main()
 {
+	//este es el main del programa donde todo se ejecuta
 	std::string answer;
 	std::string input;
 	std::string output = "";
